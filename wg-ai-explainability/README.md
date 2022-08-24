@@ -18,6 +18,7 @@ A Working Group dedicated to designing, developing, and documenting explainabili
 ## Organizers
 
 - Daniele Zonca
+- Rebecca Whitworth
 - Rob Geada
 - Rui Vieira
 - Tommaso Teofili
